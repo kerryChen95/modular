@@ -1,0 +1,8 @@
+{
+  "name": "modular",
+  "version": "0.0.1",
+  "author": "kerryChen95 <95kerry@gmail.com>",
+  "modular": {
+    "src": "expect-src"
+  }
+}
